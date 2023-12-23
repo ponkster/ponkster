@@ -1,16 +1,28 @@
-### Hi there 👋
+# Ponkster's GitHub Overview
 
-<!--
-**ponkster/ponkster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
+Hello! I'm [Iponk]. Here's a quick overview of my GitHub stats and the programming languages I use most often.
 
-Here are some ideas to get you started:
+## 🚀 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ponkster&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponkster&layout=compact&theme=radical)
+
+
+## 📈 Activity Graph
+![YourName's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ponkster&theme=dracula)
+
+## 💡 Skills
+Brief overview of your skills and technologies you're proficient in.
+
+## 📬 Contact
+Feel free to reach out for collaborations or questions:
+
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Twitter**: [Your Twitter Handle]
+
+---
+
+Thank you for visiting my GitHub profile!
