@@ -1,25 +1,41 @@
-# Ponkster's GitHub Overview
+# Hi, I'm Iponk 👋
 
-## 👋 Introduction
-Hello! I'm Iponk. Here's a quick overview of my GitHub stats and the programming languages I use most often.
+I'm **Imron Setio Widodo**, but everyone calls me Iponk. I build backend tools and small, fast
+utilities, mostly in **Rust**, with detours into Go, Zig and Svelte.
 
-## 🚀 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ponkster&show_icons=true&theme=radical)
+## 🛠️ What I work with
 
-## 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponkster&layout=compact&theme=radical)
+- **Languages:** Rust · Go · Zig · Python · TypeScript/JavaScript · Lua · C++ · Java
+- **Web:** Svelte / SvelteKit · axum · nginx
+- **Data & infra:** PostgreSQL · InfluxDB · Telegraf · Grafana · Linux VPS · systemd
+- **Editor:** Neovim, [configured for Go and Rust](https://github.com/ponkster/my-neovim-setup)
 
+## 🚀 Things I've built
 
-## 📈 Activity Graph
-![Activity graph](https://activity-graph.herokuapp.com/graph?username=ponkster&theme=dracula)
+| Project | What it does |
+|---|---|
+| [email_log_parser](https://github.com/ponkster/email_log_parser) | Rust tool that extracts external recipients from Microsoft Exchange message traces for a CRM |
+| [crmdb-cleaner](https://github.com/ponkster/crmdb-cleaner) | Removes duplicate CRM records in PostgreSQL, written in Zig with pgz |
+| [proposal-sharing](https://github.com/ponkster/proposal-sharing) | Svelte web app for sharing proposals |
+| [iot-project-TIG-stack](https://github.com/ponkster/iot-project-TIG-stack) | IoT monitoring stack with Telegraf, InfluxDB and Grafana |
+| [my-neovim-setup](https://github.com/ponkster/my-neovim-setup) | My Neovim setup for Go and Rust development |
 
-## 💡 Skills
-Brief overview of your skills and technologies you're proficient in.
+## 📊 Stats
 
-## 📬 Contact
-Feel free to reach out for collaborations or questions:
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.ponkster.me/api?username=ponkster&theme=github_dark&hide_border=true">
+    <img alt="Ponkster's GitHub stats" src="https://stats.ponkster.me/api?username=ponkster&hide_border=true" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.ponkster.me/api/top-langs?username=ponkster&theme=github_dark&hide_border=true&langs_count=6">
+    <img alt="Most used languages" src="https://stats.ponkster.me/api/top-langs?username=ponkster&hide_border=true&langs_count=6" height="165">
+  </picture>
+</p>
 
-- **Email**: origin.ponkster@gmail.com
----
+<sub>Cards are served by my own Rust service, a tiny self-hosted clone of github-readme-stats (includes private repos).</sub>
 
-Thank you for visiting my GitHub profile!
+## 📬 Get in touch
+
+- ✉️ **Email:** [origin.ponkster@gmail.com](mailto:origin.ponkster@gmail.com)
+- 𝕏 **X / Twitter:** [@darthponkster](https://x.com/darthponkster)
